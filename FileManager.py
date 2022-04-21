@@ -113,10 +113,10 @@ while op!=0:
                 for obj in list_of_objects:
                     want_to_move = input(f"Do you want to move {obj.name}? (y/n)").lower()
                     abort(want_to_move)
-                    if  want_to_move[0] == 'n':
-                        pass
-                    else:
+                    if  want_to_move[0] == 'y':
                         obj.move_file('asked',dst)
+                    else:
+                        pass
             
             m+=1
             

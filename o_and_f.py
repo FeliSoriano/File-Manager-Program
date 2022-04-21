@@ -95,7 +95,7 @@ class Fobject: #I don't necessarilly like this name, since the program also work
                 else:
                     print("\nI'm sorry, but that is not a valid destination")
         if op == 'asked':
-            shutil.move(str(self.path), dest) #We asume it has already being check for valid path
+            shutil.move(str(self.path), dest) #We asume it has already been check for valid path
 
 
 #FUNCTIONS
