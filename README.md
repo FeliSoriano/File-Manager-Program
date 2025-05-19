@@ -1,5 +1,5 @@
 # File-Manager-Program
-This is a Program I created as my final project of Udemy's Complete Python Bootcamp course. I could still use a lot of work, so I'm going to use it to learn how to use GitHub as well.
+This is a Program I created as my final project of Udemy's Complete Python Bootcamp course. I could still use a lot of work.
 
 
 I download a ton of files, specially since the pandemic started, and they don't always come ordered how I'd like them to. Just as an example, I recently downloaded all the files from a Data Science on-line course on Udemy. If you are familiar with the platform courses, you'll know that a course is usually devided in sections, each composed by a couple of videos and maybe some excercises. In this particular case, each video had a corresponding folder. In each folder there was the file they used on their video presentatio. But there where a couple of problems, to say the least. I'll name the first two that come to mind:
